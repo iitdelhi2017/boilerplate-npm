@@ -12,5 +12,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "Awesome project",
+	"keywords": ["freecodecamp","is","great"]
 }
